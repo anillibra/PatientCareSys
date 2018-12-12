@@ -1,0 +1,11 @@
+D:\MyProjects\PatientReg&Schedulling\Source\PatientCareSys\CareSys.API\bin\Debug\netcoreapp2.0\CareSys.API.deps.json
+D:\MyProjects\PatientReg&Schedulling\Source\PatientCareSys\CareSys.API\bin\Debug\netcoreapp2.0\CareSys.API.runtimeconfig.json
+D:\MyProjects\PatientReg&Schedulling\Source\PatientCareSys\CareSys.API\bin\Debug\netcoreapp2.0\CareSys.API.runtimeconfig.dev.json
+D:\MyProjects\PatientReg&Schedulling\Source\PatientCareSys\CareSys.API\bin\Debug\netcoreapp2.0\CareSys.API.dll
+D:\MyProjects\PatientReg&Schedulling\Source\PatientCareSys\CareSys.API\bin\Debug\netcoreapp2.0\CareSys.API.pdb
+D:\MyProjects\PatientReg&Schedulling\Source\PatientCareSys\CareSys.API\obj\Debug\netcoreapp2.0\CareSys.API.csprojAssemblyReference.cache
+D:\MyProjects\PatientReg&Schedulling\Source\PatientCareSys\CareSys.API\obj\Debug\netcoreapp2.0\CareSys.API.csproj.CoreCompileInputs.cache
+D:\MyProjects\PatientReg&Schedulling\Source\PatientCareSys\CareSys.API\obj\Debug\netcoreapp2.0\CareSys.API.AssemblyInfoInputs.cache
+D:\MyProjects\PatientReg&Schedulling\Source\PatientCareSys\CareSys.API\obj\Debug\netcoreapp2.0\CareSys.API.AssemblyInfo.cs
+D:\MyProjects\PatientReg&Schedulling\Source\PatientCareSys\CareSys.API\obj\Debug\netcoreapp2.0\CareSys.API.dll
+D:\MyProjects\PatientReg&Schedulling\Source\PatientCareSys\CareSys.API\obj\Debug\netcoreapp2.0\CareSys.API.pdb
