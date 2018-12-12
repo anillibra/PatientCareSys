@@ -1,0 +1,45 @@
+
+<div class="row">
+        <div class="col-xs-12">
+            <h3>Dash Board - CareHomes</h3>
+        </div>
+      </div>
+      
+      <div class="row">
+        <div class="col-xs-12">
+          <!-- <button class="btn btn-primary" *hasClaim="'canAddCategory'">
+            Add New Category
+          </button> -->
+        </div>
+      </div>
+      
+      <div *ngIf="careHomes && careHomes.length">
+        <table class="table table-bordered table-striped table-condensed">
+          <thead>
+            <tr>
+              <th>CareHome Name</th>
+              <th>Category</th>
+              <th>Location</th>
+              <th>Address</th>
+              <th>Active ?</th>
+            </tr>
+          </thead>
+          <tbody>
+              
+            <tr *ngFor="let careHome of careHomes">      
+              <td>{{careHome.name}}</td>
+              <td>{{careHome.category}}</td>
+              <td>{{careHome.location}}</td>
+              <td>{{careHome.address}}</td>
+              <td>{{careHome.isActive}}</td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <a name="routing-strategies" [routerLink]="['/home']" fragment="education">
+          link to user component
+        </a>
+      </div>
+      
+
+
