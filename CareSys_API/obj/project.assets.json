@@ -13445,11 +13445,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProjects\\PatientRegSchedulling\\Source\\PatientCareSys\\CareSys_API\\CareSys_API.csproj",
+      "projectUniqueName": "D:\\MyProjects\\MyProjects\\PatientCareSys\\CareSys_API\\CareSys_API.csproj",
       "projectName": "CareSys_API",
-      "projectPath": "D:\\MyProjects\\PatientRegSchedulling\\Source\\PatientCareSys\\CareSys_API\\CareSys_API.csproj",
+      "projectPath": "D:\\MyProjects\\MyProjects\\PatientCareSys\\CareSys_API\\CareSys_API.csproj",
       "packagesPath": "C:\\Users\\Anil\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProjects\\PatientRegSchedulling\\Source\\PatientCareSys\\CareSys_API\\obj\\",
+      "outputPath": "D:\\MyProjects\\MyProjects\\PatientCareSys\\CareSys_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
